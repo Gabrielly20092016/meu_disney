@@ -1,0 +1,14 @@
+{
+  "background_color": "#111e2b",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Meu disney",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Meu disney",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "meu disney",
+  "description": "Meu disney e uma pagina onde mostra os personagens da disney",
+  "lang": "pt"
+}
